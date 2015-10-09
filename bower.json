@@ -1,0 +1,26 @@
+{
+  "name": "ng-perfect-scrollbar",
+  "main": "ng-perfect-scrollbar.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/doselect/ng-perfect-scrollbar",
+  "authors": [
+    "Jaipradeesh <jai@doselect.com>"
+  ],
+  "description": "Angular directive for perfect-scrollbar with no Jquery dependency",
+  "moduleType": [],
+  "keywords": [
+    "scrolbar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "perfect-scrollbar": "~0.6.7"
+  }
+}

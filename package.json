@@ -1,0 +1,23 @@
+{
+  "name": "ng-perfect-scrollbar",
+  "version": "1.0.0",
+  "description": "Angular directive for perfect-scrollbar with no jQuery dependency",
+  "main": "ng-perfect-scrollbar.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglifyjs": "^0.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doselect/ng-perfect-scrollbar.git"
+  },
+  "author": "Jaipradeesh <jai@doselect.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doselect/ng-perfect-scrollbar/issues"
+  },
+  "homepage": "https://github.com/doselect/ng-perfect-scrollbar#readme"
+}

@@ -2,6 +2,10 @@
 
 #### Usage
 
+```
+bower install ng-perfectscrollbar
+```
+
 Attribute - `ng-perfect-scrollbar`
 
 Options - https://github.com/noraesae/perfect-scrollbar#optional-parameters
